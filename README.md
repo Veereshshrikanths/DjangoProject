@@ -24,3 +24,24 @@ This API provides CRUD (Create, Read,) operations and can serve as a backend for
 ### Clone the Repository
 
 ## git clone https://github.com/Veereshshrikanths/DjangoProject.git
+
+
+
+
+
+## for GET path http://127.0.0.1:8000/api/users/ -> which gives the list of users added to the DB
+
+## for POST path http://127.0.0.1:8000/api/users/create/ -> parameter for Json
+ {
+  "name":" ",
+  "age" :
+}
+
+which post the user.
+
+
+
+
+
+
+
